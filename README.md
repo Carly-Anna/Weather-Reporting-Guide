@@ -1,40 +1,47 @@
-# How to Report Severe Weather to the National Weather Service (NWS)
-A public, well-documented guide that teaches anyone within north-central Georgia how to report severe weather safely and effectively to the NWS (National Weather Service) using correct methods, foremats, and judgement. 
+# How to Report Severe Weather in Georgia
 
-![Banner](assets/images/severe-weather-banner.jpg)
+This is a free, public resource for anyone in Georgia who wants to report severe weather to the National Weather Service (NWS). Whether you’re a trained storm spotter or just someone witnessing a dangerous event — your report can make a difference.
 
-## Overview
-
-This guide teaches weather enthusiasts, storm spotters, and storm chasers how to accurately report severe weather to the National Weather Service (NWS). Whether you're a trained spotter or just witnessed a tornado in your backyard, your report could save lives — but only if it's done correctly.
-
-You'll learn **what to report**, **how to report it**, and **why your reports matter**, especially in radar-limited areas like rural Georgia or the Southeast U.S.
-
-> **🌪️ Your observations could be the key to issuing life-saving warnings.**
+> This guide will help you report severe weather **safely**, **accurately**, and **effectively**.
 
 ---
 
-## What's Inside
+## Table of Contents
 
-| Section | Description |
-|--------|-------------|
-| [`docs/types-of-reports.md`](docs/types-of-reports.md) | What qualifies as a severe weather report |
-| [`docs/how-to-report.md`](docs/how-to-report.md) | Phone numbers, apps, social media, and reporting format |
-| [`docs/examples.md`](docs/examples.md) | Good vs. bad reports with photo examples |
-| [`docs/georgia-specific.md`](docs/georgia-specific.md) | Georgia-specific NWS contacts and Skywarn info |
-| [`docs/faq.md`](docs/faq.md) | Common questions and reporting mistakes |
+- [What to Report](./docs/types-of-reports.md)
+- [How to Report It](./docs/how-to-report.md)
+- [Examples of Good vs. Bad Reports](./docs/examples.md)
+- [Where to Report in Georgia](./docs/georgia-specific.md)
+- [Frequently Asked Questions](./docs/faq.md)
 
 ---
 
-##  Who Is This For?
+## Getting Started
 
-- **Storm chasers and weather enthusiasts**
-- **SKYWARN spotters**
-- **Emergency managers and HAM radio operators**
-- **Anyone who witnesses severe weather**
+1. **Start with [What to Report](./docs/types-of-reports.md)** to understand what the NWS wants to hear.
+2. Move on to [How to Report](./docs/how-to-report.md) to learn best practices.
+3. See [Examples](./docs/examples.md) to sharpen your reporting style.
+4. Use [Georgia-Specific Info](./docs/georgia-specific.md) to find your local NWS office.
+5. Still have questions? Check the [FAQ](./docs/faq.md).
 
 ---
 
-##  Quick Example
+## Why This Exists
 
-```text
-"1.25” hail in Canton, GA at 3:42 PM. Reported by trained spotter. Hail covering roads."
+Georgia experiences all types of severe weather — tornadoes, hail, flooding, hurricanes, and winter storms. This guide empowers residents to be part of the real-time communication that helps protect life and property.
+
+If this guide helps you, feel free to share it — or fork and adapt it for your own state.
+
+---
+
+## Contributors
+
+Created by [CarlyAnnaWX](https://www.youtube.com/@CarlyAnnaWX), weather communicator, content creator, and storm safety advocate.
+
+---
+
+## 📖 License
+
+This project is released under the [MIT License](LICENSE).
+
+You are free to copy, adapt, and share it — just give credit.
