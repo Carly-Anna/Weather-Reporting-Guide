@@ -1,4 +1,5 @@
 # Types of Severe Weather Reports
+
 Knowing *what* to report is just as important as knowing *how* to report it. The National Weather Service (NWS) relies on timely, accurate reports to verify radar signatures, issue warnings, and assess storm severity. Below is a breakdown of weather events that should **always be reported**, along with helpful guidelines.
 ---
 ## High-Priority Events to Report
