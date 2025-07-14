@@ -6,27 +6,27 @@ This page provides side-by-side examples of **good vs. poor reports** across dif
 
 ---
 
-## 🌪️ Tornado Reports
+## Tornado Reports
 
 | ✅ Good | ❌ Bad |
 |--------|--------|
-| "Tornado on the ground just north of Dublin, GA at 4:05 PM. Moving NE. Reported by trained spotter." | "Looks like a tornado! 😱" |
+| "Tornado on the ground just north of Dublin, GA at 4:05 PM. Moving NE. Reported by trained spotter." | "Looks like a tornado! " |
 | "Large cone tornado crossing Hwy 82 near Tifton at 3:52 PM. Power flashes visible." | "This storm is crazy!" |
 
 ---
 
-## 🧊 Hail Reports
+## Hail Reports
 
 | ✅ Good | ❌ Bad |
 |--------|--------|
 | "Hail 1.25” (half dollar size) in Albany, GA at 5:10 PM. Lasted 3 minutes. Ground partially covered." | "Lots of ice falling here!" |
 | "Nickel-sized hail at 2:32 PM in Macon, GA. Short burst, no damage seen." | "We just got a ton of hail!" |
 
-> 💡 **Tip:** Use coin or object comparisons if you can’t measure the exact size (e.g., dime, quarter, golf ball).
+> **Tip:** Use coin or object comparisons if you can’t measure the exact size (e.g., dime, quarter, golf ball).
 
 ---
 
-## 💨 Wind & Damage Reports
+## Wind & Damage Reports
 
 | ✅ Good | ❌ Bad |
 |--------|--------|
@@ -35,7 +35,7 @@ This page provides side-by-side examples of **good vs. poor reports** across dif
 
 ---
 
-## 🌊 Flooding Reports
+## Flooding Reports
 
 | ✅ Good | ❌ Bad |
 |--------|--------|
@@ -44,7 +44,7 @@ This page provides side-by-side examples of **good vs. poor reports** across dif
 
 ---
 
-## ❌ Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
 - ❌ **Radar screenshots** — leave interpretation to meteorologists  
 - ❌ **Overly vague language** (“crazy,” “wild,” “insane”)  
