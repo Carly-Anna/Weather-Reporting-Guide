@@ -39,7 +39,7 @@ If this guide helps you, feel free to share it — or fork and adapt it for your
 Created by [CarlyAnnaWX](https://www.youtube.com/@CarlyAnnaWX), weather communicator, content creator, and storm safety advocate.
 
 ---
-![Reporting to the NWS](ReportingGA.png)
+![Reporting to the NWS](../assets/ReportingGA.png)
 ---
 
 ## 📖 License
