@@ -46,11 +46,11 @@ This page provides side-by-side examples of **good vs. poor reports** across dif
 
 ## Common Mistakes to Avoid
 
-- ❌ **Radar screenshots** — leave interpretation to meteorologists  
-- ❌ **Overly vague language** (“crazy,” “wild,” “insane”)  
-- ❌ **No location or time**  
-- ❌ **Photos with no context**  
-- ❌ **Duplicate reports** from the same person/platform
+-  **Radar screenshots** — leave interpretation to meteorologists  
+-  **Overly vague language** (“crazy,” “wild,” “insane”)  
+-  **No location or time**  
+-  **Photos with no context**  
+-  **Duplicate reports** from the same person/platform
 
 ---
 
@@ -58,8 +58,8 @@ This page provides side-by-side examples of **good vs. poor reports** across dif
 
 Before you submit a report, ask:
 
-- 📍 Did I include a precise **location** (city, road, GPS)?
-- 🕒 Did I note the **time** of the event?
-- 🧭 Did I use **measurable terms** (inches, mph, size comparisons)?
-- 🧾 Is it
+- Did I include a precise **location** (city, road, GPS)?
+- Did I note the **time** of the event?
+- Did I use **measurable terms** (inches, mph, size comparisons)?
+- Is it
 
