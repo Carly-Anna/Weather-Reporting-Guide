@@ -55,8 +55,15 @@ A great report is:
 - **Objective**: Avoid exaggeration — just the facts
 - **Efficient**: Keep it to 1–2 sentences
 
-### Format Example:
-
+## Format Example
 ```text
-"1.25” hail in Rome, GA at 3:42 PM. Ground covered. Reported by trained spotter."
+"1.25” hail in Rome, GA at 3:42 PM. Ground covered. Reported by trained spotter." Optional: Report from trained spotter
+```
+
+## When NOT To Report 
+
+Don't send a report if:
+- You're only seeing radar on an app or watching TV coverage
+- You aren't sure what you are looking at (scud, wall cloud, etc.)
+- You cannot report safely. NEVER prioritize a photo or video over your personal safety.
 
