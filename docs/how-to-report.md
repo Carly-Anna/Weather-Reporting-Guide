@@ -37,7 +37,7 @@ Best for: **Non-urgent reports or post-storm damage**
 
 ---
 
-### 🐦 4. **Tag Your Local NWS on Twitter/X**
+### 4. **Tag Your Local NWS on Twitter/X**
 - Example: `@NWSAtlanta`
 - Include time, location, and type of report
 - Attach photos if safe and possible
@@ -59,7 +59,7 @@ A great report is:
 ```text
 "1.25” hail in Rome, GA at 3:42 PM. Ground covered. Reported by trained spotter." Optional: Report from trained spotter
 ```
-
+![NWS Hail Chart](./assets/NWShailSizeChart.png)
 ## When NOT To Report 
 
 Don't send a report if:
