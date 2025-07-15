@@ -40,7 +40,7 @@ Created by [CarlyAnnaWX](https://www.youtube.com/@CarlyAnnaWX), weather communic
 
 ---
 
-![Descriptive Alt Text](./assets/ReportingGA.png)
+![Reporting in GA](./assets/ReportingGA.png)
 
 ---
 
