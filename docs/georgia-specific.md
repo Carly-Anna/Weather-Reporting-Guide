@@ -2,6 +2,7 @@
 
 If you're located in north or central Georgia, your reports should go directly to the National Weather Service (NWS) office that covers your area. This guide provides contact information for each local NWS office serving the state.
 
+![Georgia Peachtree City WFO Area](../assets/cwa2new.gif)
 ---
 
 ## Which NWS Office Covers You?
